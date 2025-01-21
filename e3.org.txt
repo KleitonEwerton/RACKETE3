@@ -31,6 +31,7 @@ in let a = (g 11)
 
 R: As imagens referentes às respostas estão disponíveis na pasta 'img - exercicio 1';
 R: O arquivo modificado foi o: dcc019/eref/interpreter.rkt;
+R: Os dois deram o mesmo resultado: -1
 
 ---------------------------------------------------------------------------------------------------------
 
